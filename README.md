@@ -1,36 +1,45 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Parsa Karbasi
-=====================================================================================================================================
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=220&section=header&text=Hello%20World&fontSize=80&fontAlignY=35&animation=fadeIn" width="100%"/>
+</div>
 
-Computer engineering student
-----------------------------
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=AI+Engineer;Computer+Engineering+Student;LLM+%26+Deep+Learning+Researcher;Scientific+Contributor" alt="Typing SVG" />
+  </a>
+</div>
 
-I'm Parsa Karbasi, a computer engineering student deeply passionate about Python and its applications. Eager to delve into the world of machine learning, I'm committed to continuous learning and growth, always seeking opportunities to expand my expertise and contribute meaningfully to the tech community.
+<br/>
 
-* ✉️  You can contact me at [ijackgonjishke@gmail,com](mailto:ijackgonjishke@gmail,com)
-* 🧠  I'm learning machine learning
-* 🤝  I'm open to collaborating on ML project
-* ⚡  "Your journey is uniquely yours; embrace the detours, for they often lead to the most breathtaking views."
+<div align="center">
+  
+  ### 👨‍💻 About Me
+  
+  I am a **Computer Engineering Student (Software Branch)** and an **AI Engineer** passionate about bridging the gap between software engineering and artificial intelligence.
 
-### Skills
+  My primary focus is exploring the depths of **Large Language Models (LLMs)** and **AI Architectures**. I am deeply interested in the scientific aspect of AI—aiming to contribute to open-source research and write valuable papers on novel AI concepts.
+  
+  <br/>
+  
+  * 🔭 **Current Focus:** Researching LLM optimization and Deep Learning fundamentals.
+  * 💡 **Goal:** To produce high-quality scientific contributions and technical papers.
+  * 🧠 **Interests:** Natural Language Processing, Computer Vision, and AI Ethics.
 
+</div>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-</p>
+<br/>
 
+<div align="center">
+  <h3>📊 My GitHub Status</h3>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=[ChefParsa]&show_icons=true&theme=transparent&hide_border=false&title_color=0099ff&text_color=333333&icon_color=0099ff&hide=stars" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[ChefParsa]&theme=transparent&hide_border=false&title_color=0099ff&text_color=333333&icon_color=0099ff" height="150" alt="streak graph" />
 
-### Socials
+  <br/>
 
-<p align="left"> <a href="https://www.github.com/ChefParsa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ChefParsa]&layout=compact&theme=transparent&hide_border=false&title_color=0099ff&text_color=333333" height="150" alt="languages graph" />
+</div>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/ChefParsa"><img src="https://github-readme-stats.vercel.app/api?username=ChefParsa&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&show_icons=true" alt="ChefParsa's GitHub stats" /></a>
-
-<a href="http://www.github.com/ChefParsa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ChefParsa&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/ChefParsa"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ChefParsa&bg_color=000000&color=ffffff&line=84cc16&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/ChefParsa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChefParsa&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
