@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=220&section=header&text=Hello%20World&fontSize=80&fontAlignY=35&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=220&section=header&text=AI%20&%20Engineering&fontSize=70&fontAlignY=35&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=AI+Engineer;Computer+Engineering+Student;LLM+%26+Deep+Learning+Researcher;Scientific+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=AI+Engineer;Computer+Engineering+Student;Deep+Learning+Researcher;Scientific+Contributor" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,9 +14,9 @@
   
   ### 👨‍💻 About Me
   
-  I am a **Computer Engineering Student (Software Branch)** and an **AI Engineer** passionate about bridging the gap between software engineering and artificial intelligence.
+  I am a **Computer Engineering Student** and **AI Engineer** passionate about the intersection of software systems and artificial intelligence.
 
-  My primary focus is exploring the depths of **Large Language Models (LLMs)** and **AI Architectures**. I am deeply interested in the scientific aspect of AI—aiming to contribute to open-source research and write valuable papers on novel AI concepts.
+  My primary focus is on **Large Language Models (LLMs)** and **Advanced AI Architectures**. I am deeply interested in the scientific aspect of AI—aiming to contribute to open-source research and write valuable papers on novel concepts.
   
   <br/>
   
@@ -31,13 +31,11 @@
 <div align="center">
   <h3>📊 My GitHub Status</h3>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=[ChefParsa]&show_icons=true&theme=transparent&hide_border=false&title_color=0099ff&text_color=333333&icon_color=0099ff&hide=stars" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[ChefParsa]&theme=transparent&hide_border=false&title_color=0099ff&text_color=333333&icon_color=0099ff" height="150" alt="streak graph" />
-
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ChefParsa]&layout=compact&theme=transparent&hide_border=false&title_color=0099ff&text_color=333333" height="150" alt="languages graph" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=ChefParsa&show_icons=true&theme=transparent&hide_border=false&title_color=0099ff&text_color=333333&icon_color=0099ff&hide=stars" height="150" alt="stats graph" />
+    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChefParsa&layout=compact&theme=transparent&hide_border=false&title_color=0099ff&text_color=333333" height="150" alt="languages graph" />
+  </p>
 </div>
 
 <div align="center">
