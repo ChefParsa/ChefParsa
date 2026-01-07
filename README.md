@@ -1,10 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=220&section=header&text=AI%20&%20Engineering&fontSize=70&fontAlignY=35&animation=fadeIn" width="100%"/>
-  
-  <br/>
-  <img src="cool_intro.gif" width="600" alt="My Header Gif"/>
-  <br/>
+  <img src="cool_intro.gif" width="100%" alt="Header Animation"/>
 </div>
+
+<br/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -45,8 +43,6 @@
     </tr>
   </table>
 </div>
-
-<br/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
