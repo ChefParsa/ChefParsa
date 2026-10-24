@@ -1,49 +1,34 @@
-<div align="center">
-  <img src="cool_intro.gif" width="100%" alt="Header Animation"/>
-</div>
 
-<br/>
+# Parsa
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=AI+Engineer;Computer+Engineering+Student;Deep+Learning+Researcher;Scientific+Contributor" alt="Typing SVG" />
-  </a>
-</div>
+**AI Engineer | Computer Engineering Student**
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=7F8C98&vCenter=true&width=520&height=30&lines=Exploring+Artificial+Intelligence;Building+Intelligent+Systems;Learning%2C+Researching%2C+Contributing" alt="Typing animation" />
 
-<div align="center">
-  
-  ### 👨‍💻 About Me
-  
-  I am a **Computer Engineering Student** and **AI Engineer** passionate about the intersection of software systems and artificial intelligence.
+I am a Computer Engineering student and AI Engineer interested in building intelligent systems and exploring the scientific foundations of artificial intelligence.
 
-  My primary focus is on **Large Language Models (LLMs)** and **Advanced AI Architectures**. I am deeply interested in the scientific aspect of AI—aiming to contribute to open-source research and write valuable papers on novel concepts.
-  
-  <br/>
-  
-  | 🔭 Current Focus | 💡 Goal | 🧠 Interests |
-  | :--- | :--- | :--- |
-  | Researching **LLM optimization** and Deep Learning fundamentals. | To produce high-quality **scientific contributions** and technical papers. | **NLP**, Computer Vision, and AI Ethics. |
+My primary interests lie in **Large Language Models**, **Deep Learning**, and **Computer Vision**, with a focus on efficient architectures, practical applications, and meaningful research contributions.
 
-</div>
+### Research Interests
 
-<br/>
+- **Large Language Models** — Architectures, optimization, and efficient inference
+- **Deep Learning** — Neural networks and representation learning
+- **Computer Vision** — Visual understanding and real-world applications
+- **AI Research** — Novel approaches and open-source contributions
 
-<div align="center">
-  <h3>📊 My GitHub Status</h3>
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ChefParsa&show_icons=true&theme=tokyonight&hide_border=true&title_color=0099ff&icon_color=0099ff&hide=stars&count_private=true" height="160" alt="stats graph" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChefParsa&layout=compact&theme=tokyonight&hide_border=true&title_color=0099ff" height="160" alt="languages graph" />
-      </td>
-    </tr>
-  </table>
-</div>
+### Technical Skills
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
+**Languages:** Python, C++  
+**Frameworks:** PyTorch, TensorFlow  
+**Tools:** Git, Docker, Linux
+
+### Currently Exploring
+
+- Advanced LLM architectures and optimization techniques
+- Efficient deep learning training and inference
+- Research methodologies and scientific paper development
+- Open-source AI research and implementations
+
+---
+
+<sub>Always learning. Always building.</sub>
