@@ -58,16 +58,6 @@ Beyond engineering, I am interested in the scientific side of AI, with the long-
 - Studying research papers and implementing ideas from recent AI literature
 - Developing the skills required for independent scientific research
 
-### GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChefParsa&theme=github-compact&hide_border=true&area=true"
-       alt="GitHub Activity Graph"
-       width="100%" />
-</p>
-
----
-
 <p align="center">
   <sub>Driven by curiosity, guided by research, focused on building.</sub>
 </p>
